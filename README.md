@@ -3,7 +3,7 @@
 Mini Webprojekt zur Visualisierung von Provider-Status, Risiken und IT-Governance-Prozessen.
 
 ## Live Demo
-https://dennis-812.github.io/MiniProject/
+https://dennis-812.github.io/MiniProjekt/
 
 ## Features
 - Übersicht über IT-Provider (Status: grün/gelb/rot)
